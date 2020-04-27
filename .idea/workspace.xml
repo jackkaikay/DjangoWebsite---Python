@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9b3bd44-d0ec-4fff-abe1-771a3f0a3426" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DjangoProject/blog/static/blog/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DjangoProject/blog/templates/blog/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/DjangoProject/blog/templates/blog/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DjangoProject/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/DjangoProject/blog/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DjangoProject/blog/templates/blog/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/DjangoProject/blog/templates/blog/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DjangoProject/blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/DjangoProject/blog/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DjangoProject/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/DjangoProject/blog/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DjangoProject/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/DjangoProject/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +24,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="//Rcusvr2/jrs/2020/Internal/20I.004 1. RCU Contacts - Google Distance Matrix Calculator/6. Data Team/Data Outputs" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="SvnConfiguration">
@@ -58,17 +58,21 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.240.1920.1040@0.0.1920.1040" timestamp="1586868332979" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1586868281125">
+    <state x="719" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587997201633">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.240.1920.1040@0.0.1920.1040" timestamp="1586868281125" />
+    <state x="719" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1920.240.1920.1040@0.0.1920.1040" timestamp="1587997201633" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1587719290474">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.240.1920.1040@0.0.1920.1040" timestamp="1587719290474" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1586868416888">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/-1920.240.1920.1040@0.0.1920.1040" timestamp="1586868416888" />
-    <state x="661" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1586868218268">
+    <state x="661" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1587992162413">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="661" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.240.1920.1040@0.0.1920.1040" timestamp="1586868218268" />
+    <state x="661" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.240.1920.1040@0.0.1920.1040" timestamp="1587992162413" />
   </component>
 </project>
