@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9b3bd44-d0ec-4fff-abe1-771a3f0a3426" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DjangoProject/users/templates/users/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DjangoProject/users/templates/users/logout.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DjangoProject/DjangoProject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/DjangoProject/DjangoProject/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DjangoProject/DjangoProject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/DjangoProject/DjangoProject/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DjangoProject/blog/templates/blog/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/DjangoProject/blog/templates/blog/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DjangoProject/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/DjangoProject/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DjangoProject/users/templates/users/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/DjangoProject/users/templates/users/register.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DjangoProject/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/DjangoProject/users/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DjangoProject/users/templates/users/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/DjangoProject/users/templates/users/profile.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
