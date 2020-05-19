@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9b3bd44-d0ec-4fff-abe1-771a3f0a3426" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DjangoProject/blog/templates/blog/user_posts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DjangoProject/users/templates/users/password_reset.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DjangoProject/users/templates/users/password_reset_complete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DjangoProject/users/templates/users/password_reset_confirm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DjangoProject/users/templates/users/password_reset_done.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DjangoProject/blog/templates/blog/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/DjangoProject/blog/templates/blog/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DjangoProject/blog/templates/blog/post_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/DjangoProject/blog/templates/blog/post_detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DjangoProject/blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/DjangoProject/blog/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DjangoProject/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/DjangoProject/blog/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DjangoProject/DjangoProject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/DjangoProject/DjangoProject/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DjangoProject/DjangoProject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/DjangoProject/DjangoProject/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DjangoProject/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/DjangoProject/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DjangoProject/users/templates/users/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/DjangoProject/users/templates/users/login.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,18 +78,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="709" y="356" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1040/-1920.240.1920.1040@0.0.1920.1040" timestamp="1588770466600" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1589550080330">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1589807352916">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.240.1920.1040@0.0.1920.1040" timestamp="1589550080330" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.240.1920.1040@0.0.1920.1040" timestamp="1589807352916" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1586868416888">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/-1920.240.1920.1040@0.0.1920.1040" timestamp="1586868416888" />
-    <state x="661" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1589467201381">
+    <state x="661" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1589807347567">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="661" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.240.1920.1040@0.0.1920.1040" timestamp="1589467201381" />
+    <state x="661" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.240.1920.1040@0.0.1920.1040" timestamp="1589807347567" />
     <state x="661" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588842662406" />
   </component>
 </project>
