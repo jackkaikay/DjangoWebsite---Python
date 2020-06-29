@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9b3bd44-d0ec-4fff-abe1-771a3f0a3426" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DjangoProject/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/DjangoProject/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DjangoProject/users/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/DjangoProject/users/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,9 +18,10 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/DjangoProject" />
   </component>
   <component name="ProjectId" id="1YcsdO0HJbJiKvW9q2YiktoL9mv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -60,10 +60,11 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586868332979">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593458681864">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.240.1920.1040@0.0.1920.1040" timestamp="1586868332979" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593458681864" />
     <state x="719" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587997201633">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -72,18 +73,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="709" y="356" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1040/-1920.240.1920.1040@0.0.1920.1040" timestamp="1588770466600" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1589807352916">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1591278819902">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.240.1920.1040@0.0.1920.1040" timestamp="1589807352916" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.240.1920.1040@0.0.1920.1040" timestamp="1591278819902" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1586868416888">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/-1920.240.1920.1040@0.0.1920.1040" timestamp="1586868416888" />
-    <state x="661" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1589807347567">
+    <state x="661" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1591278090884">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="661" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.240.1920.1040@0.0.1920.1040" timestamp="1589807347567" />
+    <state x="661" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.240.1920.1040@0.0.1920.1040" timestamp="1591278090884" />
     <state x="661" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588842662406" />
   </component>
 </project>
